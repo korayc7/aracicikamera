@@ -1,0 +1,5 @@
+
+baseURL = 'https://korayc7.github.io/aracicikamera/'
+languageCode = 'tr-tr'
+title = 'Araç İçi Kamera'
+theme = 'hextra'
